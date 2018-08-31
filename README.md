@@ -1,7 +1,7 @@
 Fear me. =)
 i has power. :p
 
-goo.gl/k2iiG4 =) (ik hou het bij deze 1ne troll comment.)
+*link censored* =) (ik hou het bij deze 1ne troll comment.)
 
 
 Development:
