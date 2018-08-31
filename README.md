@@ -17,8 +17,12 @@ Shopping List:
 - USB A-B cable
 
 Later:
-- 2 Motor shields
+- 1 Motor shields (zou voldoende moeten zijn: https://playground.arduino.cc/Main/AdafruitMotorShield)
 - 2 Motors
+
+Info regarding motor shield programming:
+http://domoticx.com/arduino-shield-motor-shield-l293d/
+https://playground.arduino.cc/Main/AdafruitMotorShield
 
 3D printing:
 OpenSCAD - 3D Modelling software - http://www.openscad.org/
