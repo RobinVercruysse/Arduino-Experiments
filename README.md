@@ -23,6 +23,7 @@ Later:
 Info regarding motor shield programming:
 http://domoticx.com/arduino-shield-motor-shield-l293d/
 https://playground.arduino.cc/Main/AdafruitMotorShield
+https://learn.adafruit.com/adafruit-motor-shield
 
 3D printing:
 OpenSCAD - 3D Modelling software - http://www.openscad.org/
