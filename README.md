@@ -8,9 +8,9 @@ Arduino Uno - https://www.arduino.cc/en/Guide/ArduinoUno
 
 Inventory:
 - Robin:
-  - Arduino Uno
+  - Arduino Uno Rev3 - https://www.gotron.be/projecten/bouwkits/arduino/arduino-uno-rv3-programmeerbord.html
   - USB A-B cable
-  - Motor + Power shield
+  - Motor + Power shield - https://www.gotron.be/projecten/bouwkits/arduino/motor-power-shield-voor-arduinor.html
   - 2 DC motors
   - Jumper cables
   - Various resistors
