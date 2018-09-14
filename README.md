@@ -1,9 +1,3 @@
-Fear me. =)
-i has power. :p
-
-*link censored* =) (ik hou het bij deze 1ne troll comment.)
-
-
 Development:
 Arduino IDE - https://www.arduino.cc/en/main/software
 or
@@ -12,13 +6,16 @@ Micropython - https://micropython.org/
 Learning:
 Arduino Uno - https://www.arduino.cc/en/Guide/ArduinoUno
 
-Shopping List:
-- Arduino Uno
-- USB A-B cable
-
-Later:
-- 1 Motor shields (zou voldoende moeten zijn: https://playground.arduino.cc/Main/AdafruitMotorShield)
-- 2 Motors
+Inventory:
+- Robin:
+  - Arduino Uno
+  - USB A-B cable
+  - Motor + Power shield
+  - 2 DC motors
+  - Jumper cables
+  - Various resistors
+  - Transistors
+  - Button
 
 Info regarding motor shield programming:
 http://domoticx.com/arduino-shield-motor-shield-l293d/
